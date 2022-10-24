@@ -1,0 +1,1 @@
+if (chuoi[i] >= 97 && chuoi[i] <= 122)
